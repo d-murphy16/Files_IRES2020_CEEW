@@ -1,0 +1,70 @@
+﻿Different Verticles of Questionnaire,Column ID,Selected Features,Feature Description
+Household Characteristics,0,hhid,House ID
+Household Characteristics,2,s_name,State
+Household Characteristics,5,d_name,District
+Household Characteristics,7,village_ward_name,Village
+Household Characteristics,11,q103_survey_type,Survey Type
+Household Characteristics,16,q204_priminc_earner_gender,Primary Earner Gender
+Household Characteristics,18,q206_priminc_earner_head_yn,Primary Earner-Head or Not
+Household Characteristics,19,q208_priminc_earner_edu,Education level - Primary Earner
+Household Characteristics,21,q210_religion,Family religion
+Household Characteristics,23,q211_caste,Caste Category
+Household Characteristics,24,q212_ration_card,Ration Card
+Household Characteristics,25,q213_no_members,No. of family members
+Household Characteristics,26,q214_no_members_lessthan18,Number of members - less than 18 yrs
+Household Characteristics,27,q214_no_members_18_40,Numbers of members - 18-40 yrs
+Household Characteristics,28,q214_no_members_41_60,Number of members - 41-60 yrs
+Household Characteristics,29,q214_no_members_morethan60,Number of members - More than 60 yrs
+Household Characteristics,30,q215_no_members_studying,Number of members studying
+Household Characteristics,31,q216_house_pucca_kachha,House Type
+Household Characteristics,37,q220_own_house_yn,Whether own the house
+Household Characteristics,68,q234_month_exp,Avg. Monthly Expenses
+Household Characteristics,71,q236_income_category,Monthly income category
+State of Electricity Access,72,q301_grid_yn,Whether Grid  supply
+State of Electricity Access,84,q302_grid_hrs_no,Hours_supply per day
+State of Electricity Access,85,q303_grid_hrs_even_no,Hours_supply evening
+State of Electricity Access,88,q306_grid_rural_powercut_days_20,Rural_Powercut_days_20hours
+State of Electricity Access,89,q307_grid_urban_powercut_days_10,Urban_Powercut_days_12hours
+State of Electricity Access,90,q308_grid_voltage_low_app,Low Voltage_days per month
+State of Electricity Access,92,q310_volt_stab_yn,Whether voltage stablizers
+State of Electricity Access,115,q316_invertor_battery_yn,Whether Invertor/Battery use?
+State of Electricity Access,120,q317_genset_yn,Whether diesel generator use?
+State of Electricity Access,124,q318_shs_aware_yn,Awareness solar home system (SHS)
+State of Electricity Access,125,q319_shs_use_yn,Whether solar home system (SHS) use?
+State of Electricity Access,129,q319_d_shs_install_yn,Thought of installing SHS
+State of Electricity Access,130,q319_e_noshs_noneed,no SHS - Do not need it in the future
+State of Electricity Access,131,q319_e_noshs_highcost,no SHS - High installation cost
+State of Electricity Access,132,q319_e_noshs_nosavings,no SHS - Doubts about energy savings
+State of Electricity Access,133,q319_e_noshs_quality,no SHS - Doubts about system quality
+State of Electricity Access,134,q319_e_noshs_nobenefit,no SHS - Do not know how benefit them
+State of Electricity Access,135,q319_e_noshs_notavailable,no SHS - Do not know locally available company
+State of Electricity Access,136,q319_e_noshs_process,no SHS - Not aware_installation process
+State of Electricity Access,137,q319_e_noshs_subsidy,no SHS - Do not know how to get subsidy
+State of Electricity Access,138,q319_e_noshs_loan,no SHS - Do not know how to get loan
+State of Electricity Access,139,q319_e_noshs_badfeedback,no SHS - Did not get good feedback
+State of Electricity Access,140,q319_e_noshs_nospace,no SHS - Do not have space
+State of Electricity Access,141,q319_e_noshs_other,no SHS - Other reasons
+State of Electricity Access,150,q324_prim_source_electricity,Primary Source of Electricity
+State of Electricity Access,498,q610_elec_bill_physical_yn,Whether Elec Bill show?
+State of Electricity Access,499,q610_a_no_billing_days,Number of billing days
+State of Electricity Access,500,q610_b_billed_units,Billed Units
+State of Electricity Access,501,q610_c_billed_amount,Billed Amount
+State of Electricity Access,503,q610_d_sanctioned_load,Sanctioned Load
+State of Electricity Access,504,q610_e_bill_date,Bill Date
+State of Electricity Access,505,q610_e_bill_month,Bill Month
+State of Electricity Access,506,q610_e_bill_year,Bill Year
+Electricity End Use,166,q405_a_incadescent_bulb_no,No. of incandescent bulbs
+Electricity End Use,167,q405_b_cfl_bulb_no,No. of CFL bulbs
+Electricity End Use,168,q405_c_led_bulb_no,No. LED bulbs
+Electricity End Use,169,q405_d_led_tube_light_no,Np. of LED tube lights
+Electricity End Use,170,q405_e_cfl_tube_light_no,No. of CFL tubelights
+Electricity End Use,189,q410_ceiling_fan_no,No. of ceiling fans
+Electricity End Use,204,q416_table_fan_no,No. of table/pedestal/wall mounted fans
+Electricity End Use,212,q422_air_coolers_no,No. of air coolers
+Electricity End Use,221,q428_ac_no,No. of air conditioners
+Electricity End Use,280,q447_room_heater_no,No. of electric room heaters
+Electricity End Use,294,q453_geyser_no,No. of electric geysers
+Electricity End Use,304,q458_imm_rod_no,No. of immersion roads
+Electricity End Use,312,q460_tv_no,No. of TV sets
+Electricity End Use,326,q467_fridge_no,No. of Fridges
+State of Cooking Energy Access,416,q529_prim_cook_fuel,Primary Cooking Fuel
